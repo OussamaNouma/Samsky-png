@@ -2,7 +2,8 @@
 - 👀 I’m interested in web devllopement
 - 🌱 I’m currently learning sass css javascript
 - 💞️ I’m looking to collaborate on front project
-- 📫 How to reach me ...
+- 📫 How to reach me:
+- email: oussama.nouma1@gmail.com
 
 <!---
 Samsky-png/Samsky-png is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
