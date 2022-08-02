@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Samsky-png
+- 👋 Hi, I’m Oussama
 - 👀 I’m interested in web devllopement
 - 🌱 I’m currently learning vue.js and node.js
 - 💞️ I’m looking to collaborate on frontend and backend projects
