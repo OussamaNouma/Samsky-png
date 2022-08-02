@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Samsky-png
 - 👀 I’m interested in web devllopement
-- 🌱 I’m currently learning sass css javascript
-- 💞️ I’m looking to collaborate on front project
+- 🌱 I’m currently learning vue.js and node.js
+- 💞️ I’m looking to collaborate on frontend and backend projects
 - 📫 How to reach me:
 - email: oussama.nouma1@gmail.com
 
